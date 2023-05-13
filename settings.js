@@ -7,8 +7,8 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94742514900'] //ur owner number
+global.ownername = "Ƈʜᴀᴛʜᴜツ..." //ur owner name
 
 //Bot Name 
 global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
@@ -25,7 +25,7 @@ BOT SETTINGS
 */
 
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
-global.LANG = 'EN'
+global.LANG = 'SI'
 
 global.READ_MASSAGE = true
 
@@ -85,8 +85,8 @@ global.antilink = 'true'
 
 
 //OTHERS  
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
