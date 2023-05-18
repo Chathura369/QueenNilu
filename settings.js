@@ -61,7 +61,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 global.SEX_VIDEO_DOWNLOAD ='true'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = 'true ' 
 
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
