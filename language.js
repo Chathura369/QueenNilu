@@ -13,7 +13,7 @@ if (fs.existsSync('./language/' + global.LANG + '.json')) {
         chalk.red.bold('You entered an invalid language. English language was chosen.')
     );
 
-    var json = JSON.parse(fs.readFileSync('./language/EN.json'));
+    var json = JSON.parse(fs.readFileSync('./language/SI.json'));
 }
 
 function getString(file) {
